@@ -1,0 +1,16 @@
+[
+{
+  "modid": "kloudframework",
+  "name": "KloudFramework",
+  "description": "A framework to allow interaction to an economy without needing the source of the economy plugin",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://www.kloudspaceproductions.com",
+  "updateUrl": "",
+  "authorList": ["Kloud"],
+  "credits": "Kloud",
+  "logoFile": "kloudframework.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
